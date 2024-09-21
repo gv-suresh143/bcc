@@ -1,0 +1,27 @@
+# React and React DOM
+react==18.3.1
+react-dom==18.3.1
+
+# Routing
+react-router-dom==6.26.2
+
+# UI Components
+antd==5.20.6
+@ant-design/icons==5.5.1
+
+# Toast Notifications
+react-toastify==10.0.5
+
+# Development Tools
+vite==5.4.1
+@vitejs/plugin-react-swc==3.5.0
+
+# Linting and Formatting
+eslint==9.9.0
+@eslint/js==9.9.0
+eslint-plugin-react==7.35.0
+eslint-plugin-react-hooks==5.1.0-rc.0
+eslint-plugin-react-refresh==0.4.9
+autoprefixer==10.4.20
+postcss==8.4.47
+tailwindcss==3.4.12
